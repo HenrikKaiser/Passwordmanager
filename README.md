@@ -4,8 +4,7 @@ Functionality:
 1. Save a password. <br />
 	1.1 Choose whether you want to encrypt your password or not. Encrypting your password can be adventageous if you want to enter a simple password, for example a word, but want 	a save password for your account. <br />
 	1.2 Enter the use for your password. This is needed for loading the password afterwards. <br />
-	1.3 Choose a masterpassword. This is your masterpassword, used for saving and loading your passwordfile. You need to remember this, though if you forget it, you can find it 	in {use}masterpassword.txt (Will change).
-<br />
+	1.3 Choose a masterpassword. This is your masterpassword, used for saving and loading your passwordfile. You need to remember this, though if you forget it, you can find it 	in {use}masterpassword.txt (Will change). <br />
 	1.4. You can add multiple passwords in 1 passworddirectory with the same masterpassword
     <br />
 	1.4 Enter the password you want to save. <br />
